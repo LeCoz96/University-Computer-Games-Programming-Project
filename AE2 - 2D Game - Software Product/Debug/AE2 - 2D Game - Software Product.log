@@ -1,0 +1,19 @@
+﻿  Door.cpp
+  FlyingEnemy.cpp
+  Game.cpp
+E:\Year 2\Computer Games Programming\[LEWIS COZENS]_[Q14707560]_DAC526_Project\AE2 - 2D Game - Software Product\Game.cpp(304,12): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+  GameObject.cpp
+  GroundEnemy.cpp
+  Key.cpp
+E:\Year 2\Computer Games Programming\[LEWIS COZENS]_[Q14707560]_DAC526_Project\AE2 - 2D Game - Software Product\Key.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+  Lava.cpp
+E:\Year 2\Computer Games Programming\[LEWIS COZENS]_[Q14707560]_DAC526_Project\AE2 - 2D Game - Software Product\Lava.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+  MovingObject.cpp
+  Player.cpp
+E:\Year 2\Computer Games Programming\[LEWIS COZENS]_[Q14707560]_DAC526_Project\AE2 - 2D Game - Software Product\Player.cpp(124,6): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Year 2\Computer Games Programming\[LEWIS COZENS]_[Q14707560]_DAC526_Project\AE2 - 2D Game - Software Product\Player.cpp(126,8): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  StaticObject.cpp
+  Stats.cpp
+  Generating Code...
+  AE2 - 2D Game - Software Product.vcxproj -> E:\Year 2\Computer Games Programming\[LEWIS COZENS]_[Q14707560]_DAC526_Project\AE2 - 2D Game - Software Product\Debug\AE2 - 2D Game - Software Product.exe
+          1 file(s) copied.
